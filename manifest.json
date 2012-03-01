@@ -1,6 +1,7 @@
 {
   "name": "HourDisplay",
   "version": "1.0",
+  "author": "Anthony BISIO",
   "background_page": "background.html",
   "description": "Display the hour in your navigator",
   "browser_action": {
