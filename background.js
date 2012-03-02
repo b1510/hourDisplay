@@ -35,6 +35,7 @@ function updateCurrentTime() {
 
   // Set le badge
   chrome.browserAction.setBadgeText({text:String(strIcon)}); 
+
 }
 
 window.setInterval("updateCurrentTime()",1000);
